@@ -1,5 +1,5 @@
 # pdfmerger
-Building a PDF Merger with an interactive GUI, so you can stop using those untrustworthy Websites.
+Building a PDF Merger with an interactive GUI, so you can stop using those untrustworthy Websites. :eyes:
 
 
 <div align="center">
@@ -9,16 +9,16 @@ Building a PDF Merger with an interactive GUI, so you can stop using those untru
 </div>
 
 
-### Features
+### Features :computer:
 
 - Simple UI 
 - Portable Windows Executable
 
-### Install
+### Install :electric_plug:
 
 - no Installation needed - just run the Executable and you are good to go!
 
-### To-do
+### To-do :clipboard:
 
 - [ ] Create Executable for Mac
 - [ ] sort PDF Files before Merging them
